@@ -1,5 +1,8 @@
 # Vaja1-ADC-single-conversion-Nucleo
 
+Slikovni izrezek PINOUT:
+
+<img width="649" height="538" alt="image" src="https://github.com/user-attachments/assets/ab23b7cc-a6bb-49e2-ad5e-22bb7056698c" />
 
 
 
